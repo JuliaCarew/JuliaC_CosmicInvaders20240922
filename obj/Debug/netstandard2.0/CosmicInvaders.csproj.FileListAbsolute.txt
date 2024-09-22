@@ -1,0 +1,10 @@
+C:\Users\Julia\Downloads\CosmicInvaders\bin\Debug\netstandard2.0\CosmicInvaders.deps.json
+C:\Users\Julia\Downloads\CosmicInvaders\bin\Debug\netstandard2.0\CosmicInvaders.dll
+C:\Users\Julia\Downloads\CosmicInvaders\bin\Debug\netstandard2.0\CosmicInvaders.pdb
+C:\Users\Julia\Downloads\CosmicInvaders\obj\Debug\netstandard2.0\CosmicInvaders.csproj.AssemblyReference.cache
+C:\Users\Julia\Downloads\CosmicInvaders\obj\Debug\netstandard2.0\CosmicInvaders.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Julia\Downloads\CosmicInvaders\obj\Debug\netstandard2.0\CosmicInvaders.AssemblyInfoInputs.cache
+C:\Users\Julia\Downloads\CosmicInvaders\obj\Debug\netstandard2.0\CosmicInvaders.AssemblyInfo.cs
+C:\Users\Julia\Downloads\CosmicInvaders\obj\Debug\netstandard2.0\CosmicInvaders.csproj.CoreCompileInputs.cache
+C:\Users\Julia\Downloads\CosmicInvaders\obj\Debug\netstandard2.0\CosmicInvaders.dll
+C:\Users\Julia\Downloads\CosmicInvaders\obj\Debug\netstandard2.0\CosmicInvaders.pdb
